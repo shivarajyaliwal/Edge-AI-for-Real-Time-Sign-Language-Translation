@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Edge-AI-for-Real-Time-Sign-Language-Translation
 
 🌐 Edge AI for Real-Time ASL Sign Language Translation
